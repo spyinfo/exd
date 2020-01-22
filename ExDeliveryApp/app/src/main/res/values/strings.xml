@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ExDeliveryApp</string>
+    <string name="company_name">Ex-Delivery</string>
+    <string name="company_description">Реально быстрая доставка еды.</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">@string/app_name</string>
+    <string name="menu_rests">Рестораны</string>
+    <string name="menu_foods">Еда</string>
+    <string name="menu_tools">Параметры</string>
+    <string name="menu_share">Поделиться</string>
+    <string name="menu_send">Написать нам</string>
+</resources>
