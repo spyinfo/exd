@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/exd-react.iml" filepath="$PROJECT_DIR$/.idea/exd-react.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ex-delivery.iml" filepath="$PROJECT_DIR$/.idea/ex-delivery.iml" />
     </modules>
   </component>
 </project>
