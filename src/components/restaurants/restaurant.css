@@ -1,0 +1,11 @@
+.restaurants__img img {
+    max-height: 153px;
+    object-fit: cover;
+}
+
+.no-restaurant {
+    margin: 0 auto 30px auto;
+    text-align: center;
+    font-size: 1.3rem;
+    font-weight: bold;
+}
