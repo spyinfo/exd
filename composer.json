@@ -5,7 +5,7 @@
         "league/plates": "3.*",
         "tamtamchik/simple-flash": "^1.2",
         "intervention/image": "^2.5",
-        "phpmailer/phpmailer": "^5.2.16"
+        "phpmailer/phpmailer": "^6.1.6"
     },
     "autoload": {
         "psr-4": {
